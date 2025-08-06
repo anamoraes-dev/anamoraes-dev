@@ -6,23 +6,17 @@ Estou especialmente empolgada com o desenvolvimento **Full Stack**, explorando c
 
 Embora meu foco atual seja no ecossistema JavaScript (Node.js), sou curiosa e estou sempre me desafiando ao aprendizado de novas tecnologias e linguagens!
 
-<details>
-  <summary><b>Mais sobre mim</b></summary>
-  <br/>
-  - 🔭 Atualmente estou trabalhando no meu projeto de portfólio, o Educar.IA!
-  - 🌱 Estou aprendendo sobre desenvolvimento backend com Node.js e a incrível API da OpenAI.
-  - 📫 **Como me encontrar:** [Meu Perfil no LinkedIn](https://www.linkedin.com/in/ana-moraes-985b0617a)
-</details>
+---
 
-<br/>
+### 🔭 Meus Interesses e Projetos Atuais
+
+* 🌱 Atualmente estou aprendendo sobre desenvolvimento backend com **Node.js** e a incrível **API da OpenAI**.
+* 🚀 Meu projeto principal no momento é o **Educar.IA**, um gerador de conteúdo educacional com avatares de IA. *(Você poderá transformar isso em um link para o repositório do projeto depois!)*
+* 💬 Me pergunte sobre minha jornada de aprendizado em programação e os desafios que superei neste projeto.
 
 ---
 
-### 📬 Contato
+### 📬 Como me Encontrar
 
-Quer uma ajuda em projetos, fazer networking ou apenas bater um papo? Entre em contato!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-moraes-985b0617a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soaresdemoraesanamaria@gmail.com)
-
----
+* **LinkedIn:** [seu-link-do-linkedin-aqui](https://www.linkedin.com/in/ana-moraes-985b0617a/)
+* **Email:** [seu.email.profissional@exemplo.com](mailto:soaresdemoraesanamaria@gmail.com)

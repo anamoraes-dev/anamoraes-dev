@@ -18,5 +18,5 @@ Embora meu foco atual seja no ecossistema JavaScript (Node.js), sou curiosa e es
 
 ### 📬 Como me Encontrar
 
-* **LinkedIn:** [seu-link-do-linkedin-aqui](https://www.linkedin.com/in/ana-moraes-985b0617a/)
-* **Email:** [seu.email.profissional@exemplo.com](mailto:soaresdemoraesanamaria@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/ana-moraes-985b0617a/](https://www.linkedin.com/in/ana-moraes-985b0617a/)
+* **Email:** [soaresdemoraesanamaria@gmail.com](mailto:soaresdemoraesanamaria@gmail.com)

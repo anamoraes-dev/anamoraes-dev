@@ -11,7 +11,7 @@ Embora meu foco atual seja no ecossistema JavaScript (Node.js), sou curiosa e es
   <br/>
   - 🔭 Atualmente estou trabalhando no meu projeto de portfólio, o Educar.IA!
   - 🌱 Estou aprendendo sobre desenvolvimento backend com Node.js e a incrível API da OpenAI.
-  - 📫 **Como me encontrar:** [Meu Perfil no LinkedIn](https://www.linkedin.com/in/ana-moraes-985b0617a/)
+  - 📫 **Como me encontrar:** [Meu Perfil no LinkedIn] (https://www.linkedin.com/in/ana-moraes-985b0617a/)
 </details>
 
 <br/>

@@ -11,7 +11,7 @@ Embora meu foco atual seja no ecossistema JavaScript (Node.js), sou curiosa e es
 ### 🔭 Meus Interesses e Projetos Atuais
 
 * 🌱 Atualmente estou aprendendo sobre desenvolvimento backend com **Node.js** e a incrível **API da OpenAI**.
-* 🚀 Meu projeto principal no momento é o **Educar.IA**, um gerador de conteúdo educacional com avatares de IA. *(Você poderá transformar isso em um link para o repositório do projeto depois!)*
+* 🚀 Meu projeto principal no momento é o **Educar.IA**, um gerador de conteúdo educacional com avatares de IA. *(https://github.com/anamoraes-dev/Projeto-Educaria)*
 * 💬 Me pergunte sobre minha jornada de aprendizado em programação e os desafios que superei neste projeto.
 
 ---
